@@ -14,3 +14,8 @@ venv/
 
 # Large datasets (if you don't want them in Git)
 extracted_identities/
+extracted_identities_amar_desh/
+
+
+News_Amar_desh_cleaned.xlsx
+News_Amar_desh.xlsx
