@@ -1,0 +1,5 @@
+﻿dataset,model,gold_file,pred_file,gold_rows,pred_rows_success,merged_rows,valid_rows,coverage_vs_gold,mae,accuracy,macro_f1
+apolitical_relgious_hefajot,claude,gold_standard_hefajot.jsonl,claude_sonnet_5_hefajot.jsonl,18,19,18,18,1.0,0.0,1.0,0.2
+apolitical_relgious_hefajot,gemini,gold_standard_hefajot.jsonl,gemini3.1_pro_ext_hefajot.jsonl,18,18,18,18,1.0,0.0,1.0,0.2
+apolitical_relgious_hefajot,gpt,gold_standard_hefajot.jsonl,gpt_4o_hefajot.jsonl,18,16,16,16,0.8889,0.0,1.0,0.2
+apolitical_relgious_hefajot,qwen,gold_standard_hefajot.jsonl,qwen2.5_7b_hefajot.jsonl,18,17,17,17,0.9444,1.2941,0.1765,0.06

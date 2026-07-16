@@ -1,0 +1,4 @@
+﻿dataset,model,gold_file,pred_file,gold_rows,pred_rows_success,merged_rows,valid_rows,coverage_vs_gold,mae,accuracy,macro_f1
+demo_pahari,gemini,gold_standard_pahari.jsonl,gemini3.1_pro_ext_pahari.jsonl,10,10,10,10,1.0,0.3,0.7,0.281
+demo_pahari,claude,gold_standard_pahari.jsonl,claude_sonnet_5_pahari.jsonl,10,10,10,10,1.0,0.6,0.4,0.2467
+demo_pahari,qwen,gold_standard_pahari.jsonl,qwen2.5_7b_pahari.jsonl,10,6,6,6,0.6,1.8333,0.1667,0.1
