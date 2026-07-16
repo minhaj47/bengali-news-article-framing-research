@@ -1,0 +1,7 @@
+﻿model,mean_abs_error,median_abs_error,max_abs_error,n_rows
+claude_sonet_5,0.0,0.0,0,18
+gemini,0.17088607594936708,0.0,4,316
+claude,0.22857142857142856,0.0,1,35
+claude_sonnet_5_iskon,0.375,0.0,1,8
+claude_sonnet_5_tablig,0.5555555555555556,1.0,1,9
+qwen,0.8646616541353384,1.0,4,266

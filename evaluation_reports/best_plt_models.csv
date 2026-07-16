@@ -1,0 +1,5 @@
+﻿dataset,model,gold_file,pred_file,gold_rows,pred_rows_success,merged_rows,valid_rows,coverage_vs_gold,mae,accuracy,macro_f1
+plt_awami_league,gemini,gold_standard_awami_league.jsonl,gemini3.1_pro_extended_awami_league.jsonl,20,20,20,20,1.0,0.3,0.8,0.4673
+plt_bnp,gemini,gold_standard_bnp.jsonl,gemini_3.1_pro_extended_bnp.jsonl,17,17,17,17,1.0,0.0588,0.9412,0.5526
+plt_jamaat,gemini,gold_standard_jamaat.jsonl,gemini_3.1_pro_extended_jamat.jsonl,13,13,13,13,1.0,0.0769,0.9231,0.5238
+plt_letf,gemini,gold_standard_leftist.jsonl,gemini3.1_pro_ext_leftist.jsonl,9,9,9,9,1.0,0.1111,0.8889,0.5378
