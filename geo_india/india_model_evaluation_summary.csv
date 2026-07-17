@@ -1,0 +1,5 @@
+﻿model,pred_file,valid_rows,coverage,qwk_5,mae_5,acc_5,macro_f1_3,acc_3
+gemini,gemini3.1_pro_extended_india.jsonl,50,1.0,0.9701,0.04,0.96,0.9852,0.98
+claude,claude_sonnet5_india.jsonl,50,1.0,0.6927,0.34,0.72,0.5856,0.84
+gpt,gpt4o_india.jsonl,38,0.76,0.6889,0.3158,0.7105,0.5912,0.8421
+qwen,qwen2.5_7b_india.jsonl,47,0.94,0.5037,0.5319,0.5532,0.4343,0.6383

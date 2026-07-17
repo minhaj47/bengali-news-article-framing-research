@@ -1,5 +1,5 @@
-﻿dataset,model,gold_file,pred_file,gold_rows,pred_rows_success,merged_rows,valid_rows,coverage_vs_gold,mae,accuracy,macro_f1
-apolitical_relgious_iskon,gpt,gold_standard_iskon.jsonl,gpt4o_iskon.jsonl,8,8,8,8,1.0,0.25,0.75,0.3
-apolitical_relgious_iskon,gemini,gold_standard_iskon.jsonl,gemini3.1_pro_ext_iskon.jsonl,8,8,8,8,1.0,0.25,0.75,0.1714
-apolitical_relgious_iskon,claude,gold_standard_iskon.jsonl,claude_sonnet_5_iskon.jsonl,8,8,8,8,1.0,0.375,0.625,0.1538
-apolitical_relgious_iskon,qwen,gold_standard_iskon.jsonl,qwen2.5_7b_iskon.jsonl,8,7,7,7,0.875,1.7143,0.0,0.0
+﻿model,pred_file,valid_rows,coverage,qwk_5,mae_5,acc_5,macro_f1_3,acc_3
+gpt,gpt4o_iskon.jsonl,8,1.0,0.5,0.25,0.75,0.5,0.75
+gemini,gemini3.1_pro_ext_iskon.jsonl,8,1.0,0.0,0.25,0.75,0.2857,0.75
+claude,claude_sonnet_5_iskon.jsonl,8,1.0,0.0,0.375,0.625,0.2564,0.625
+qwen,qwen2.5_7b_iskon.jsonl,7,0.875,0.0,1.7143,0.0,0.0952,0.1429

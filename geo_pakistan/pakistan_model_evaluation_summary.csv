@@ -1,0 +1,5 @@
+﻿model,pred_file,valid_rows,coverage,qwk_5,mae_5,acc_5,macro_f1_3,acc_3
+gemini,gemini3.1_pro_extended_pakistan.jsonl,41,1.0,0.9358,0.0732,0.9268,0.8828,0.9756
+claude,claude_sonnet5_pakistan.jsonl,41,1.0,0.7525,0.4146,0.6098,0.6573,0.7317
+gpt,gpt4o_pakistan.jsonl,41,1.0,0.679,0.439,0.6098,0.6265,0.7073
+qwen,qwen2.5_7b_pakistan.jsonl,38,0.9268,0.1955,0.8947,0.3684,0.4441,0.4211
